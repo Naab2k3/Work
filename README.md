@@ -130,7 +130,7 @@ Hệ thống có thể mở rộng thêm các tính năng như:
 
 ## Tác giả
 
-Hệ thống được phát triển bởi [Tên của bạn]
+Hệ thống được phát triển bởi Naab.
 
 ## Giấy phép
 
